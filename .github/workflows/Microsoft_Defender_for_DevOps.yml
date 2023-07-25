@@ -2,7 +2,8 @@ name: Microsoft Defender for DevOps
 on:
   push:
     branches:
-      - main
+      - dev
+  workflow_dispatch:
 
 jobs:
   sample:
