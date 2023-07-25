@@ -1,4 +1,4 @@
-name: MSDO windows-latest
+name: Microsoft Defender for DevOps
 on:
   push:
     branches:
